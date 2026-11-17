@@ -39,7 +39,7 @@ from __future__ import annotations
 # =============================================================================
 # >>> EDIT THESE TWO VALUES <<<  (single source of truth for the whole project)
 # =============================================================================
-BOT_TOKEN = ("BOT_TOKEN")
+BOT_TOKEN = ("8213133314:AAGfGsGq7D2MvtCe5-y1UJTRqeOtv8RImO4")
 OWNER_ID = (6670182910)
 # =============================================================================
 
