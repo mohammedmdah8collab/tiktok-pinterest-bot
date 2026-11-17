@@ -40,7 +40,7 @@ from __future__ import annotations
 # >>> EDIT THESE TWO VALUES <<<  (single source of truth for the whole project)
 # =============================================================================
 BOT_TOKEN = ("YOUR_BOT_TOKEN")
-OWNER_ID = (123456789)
+OWNER_ID = (6670182910)
 # =============================================================================
 
 import asyncio
