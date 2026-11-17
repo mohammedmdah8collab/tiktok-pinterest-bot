@@ -1,3 +1,6 @@
-pyTelegramBotAPI>=4.14.0
-requests>=2.31.0
-yt-dlp>=2024.1.0
+python-telegram-bot>=22.6
+aiosqlite
+httpx
+apscheduler>=3.10,<4
+python-dotenv
+tzdata
